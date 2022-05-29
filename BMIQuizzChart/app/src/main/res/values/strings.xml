@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="wage">Enter Wage</string>
+    <string name="heightNum">height</string>
+    <string name="height">height</string>
+    <string name="age">Enter Age</string>
+    <string name="bmi">BMI</string>
+    <string name="kcal">Kcal</string>
+    <string name="recipe1">Recipe1</string>
+    <string name="recipe2">Recipe2</string>
+    <string name="quiz">Quizz</string>
+    <string name="chart">Chart</string>
+
+    <string name="correct"><b>Poprawne</b> \n
+                           <b>%1$d</b> z 6</string>
+    <string name="true_text">Tak</string>
+    <string name="false_text">Nie</string>
+    <string name="correct_answer">poprawna odpowiedź</string>
+    <string name="wrong_answer">niepoprawna odpowiedź</string>
+    <string name="a">Czy istnieje dieta Ducana?</string>
+    <string name="b">Cukier jest niezdrowy:\n \t</string>
+    <string name="c">Białko w nadmiarze jest niezdrowe:</string>
+    <string name="d">Czerwone mięso jest niezdrowe</string>
+    <string name="e">Alkohol nie wspomaga trawienia</string>
+    <string name="f">Głodówka nie pomaga w odchudzaniu</string>
+    <string name="next_text">następne</string>
+    <string name="prev_text">poprzednie</string>
+
+    <string name="results_format">Shots fired: %1$d\nTotal time: %2$.1f</string>
+    <string name="reset_game">Reset Game</string>
+    <string name="win">You win!</string>
+    <string name="lose">You lose!</string>
+    <string name="time_remaining_format">Time remaining: %.1f seconds</string>
+
+
+</resources>
+
